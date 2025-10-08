@@ -1,13 +1,13 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Afnan Omer 👋</h1>
 <p align="center">
-  💻 Developer | 🌱 Lifelong Learner | 🚀 Tech Enthusiast
+   Developer | Lifelong Learner 
 </p>
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 - 🔭 I’m currently working on **[Your current project]**
 - 🌱 I’m currently learning **[Technologies you're learning]**
