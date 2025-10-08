@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi there, I'm Afnan Omer 👋</h1>
 <p align="center">
-   Developer | Lifelong Learner 
-</p>
+   Developer
 
 ---
 
